@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution GitHub](hhttps://github.com/explorem/position-image-japan)
+- Solution URL: [Solution GitHub](https://github.com/explorem/position-image-japan)
 - Live Site URL: [Live Site on Netlify](https://singular-cassata-dd60f7.netlify.app)
 
 ## My process
